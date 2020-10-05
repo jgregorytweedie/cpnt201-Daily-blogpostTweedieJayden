@@ -1,0 +1,52 @@
+main header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main img {
+  display: flex;
+  justify-content: column;
+         
+}
+nav a:hover {
+  background-color: black;
+  color: white;
+}
+nav a:active {
+  background-color: darkblue;
+  color: white;
+}
+  nav .current {
+    background-color: pink;
+    color: black;
+  }
+  nav {
+    margin-bottom: 2rem;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 1;
+
+    display: flex;
+    
+  }
+  nav ul li {
+    flex: auto;
+    text-align: center;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: Black;
+    border: 1px solid black;
+
+    display: block;
+    padding: 0.5em 1em;
+  }
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid black;
+  }
+  
