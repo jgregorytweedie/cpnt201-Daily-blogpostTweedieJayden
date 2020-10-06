@@ -6,7 +6,7 @@ main header {
 main img {
   display: flex;
   justify-content: column;
-         
+  max-width: 100%;
 }
 nav a:hover {
   background-color: black;
