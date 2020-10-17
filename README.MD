@@ -1,5 +1,4 @@
 #THE README
--This is just a daily. All the pictures used for now are in the large folder file. mainly ignore the other files.
--
--
--
+1. Course: cpnt201
+2. Assignment 2
+3. By Jayden Tweedie
